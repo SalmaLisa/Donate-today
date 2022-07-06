@@ -41,13 +41,13 @@ body{
   font-size: 19px;
 }
 /*======================================= donate today section ======================================= */
-.donate-today-section> h1{
+.heading{
   font-size: 40px;
   text-align: center;
   color: #121212;
   margin-top: 100px;
 }
-.donate-today-section p{
+.description{
   text-align: center;
   color: #707070;
   width: 45%;
@@ -84,5 +84,37 @@ body{
   padding: 10px;
 }
 #donate-button{
-  text-align: center;
+  display: block;
+  width: 9%;
+  margin: 30px auto 70px;
+ 
 }
+/*======================================= donation plan section ====================================*/
+.donation-uses{
+  display: flex;
+  width: 85%;
+  margin: 30px auto 90px;
+}
+.uses-source{
+  width: 30%;
+  margin: 1%;
+  padding: 60px 30px 40px;
+}
+.uses-source h2{
+  color: #121212;
+}
+.uses-source p{
+  color: #707070;
+  line-height: 1.5em;
+}
+#food{
+  background-color: #EDF5F6;
+}
+#shelter{
+  background-color: #FFEEEE;
+}
+#education{
+  background-color: #FFF4D6;
+}
+
+/*======================================= donation activities section ====================================*/
