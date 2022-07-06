@@ -3,13 +3,12 @@ body{
   margin: 0;
 }
 .banner-section{
-  background-image: url(images/donation13.jpg);
+  background-image: url(images/banner-image.jpg);
   background-repeat: no-repeat;
   background-size: 100vw;
   height: 100vh;
   text-align: center;
   color: #ffffff;
- 
 }
 .blur-background{
   width: 100vw;
@@ -40,7 +39,8 @@ body{
   border-radius: 5px;
   font-size: 19px;
 }
-/*======================================= donate today section ======================================= */
+
+/*======================================= donate-today-section start =======================================*/
 .heading{
   font-size: 40px;
   text-align: center;
@@ -64,7 +64,6 @@ body{
   background-color: #FAFAFA;
   font-size: 20px;
   color: #707070;
-  
 }
 #amount-2{
   border: 2px solid #FF5959;
@@ -87,9 +86,9 @@ body{
   display: block;
   width: 9%;
   margin: 30px auto 70px;
- 
 }
-/*======================================= donation plan section ====================================*/
+
+/*======================================= donation-plan-section start ====================================*/
 .donation-uses{
   display: flex;
   width: 85%;
@@ -99,6 +98,7 @@ body{
   width: 30%;
   margin: 1%;
   padding: 60px 30px 40px;
+  border-radius: 5px;
 }
 .uses-source h2{
   color: #121212;
@@ -117,7 +117,7 @@ body{
   background-color: #FFF4D6;
 }
 
-/*======================================= donation activities section ====================================*/
+/*=================================== donation-activities-section start====================================*/
 .photo-gallery{
   display: flex;
 }
@@ -131,6 +131,7 @@ body{
   margin: 20px auto 90px;
   background-color: #FFEEEE;
   padding: 30px;
+  border-radius: 5px;
 }
 .reg-form h2{
   text-align: center;
@@ -151,7 +152,8 @@ body{
   color: #ffffff;
   font-weight: 600;
 }
-/*======================================= get our updates section ====================================*/
+
+/*======================================= get-our-updates-section start====================================*/
 #subscription-form{
   width: 35%;
   padding: 70px 150px;
@@ -177,7 +179,8 @@ body{
   color: #ffffff;
   border-radius: 0px 7px 7px 0px;
 }
-/*======================================= footer section ====================================*/
+
+/*======================================= footer-section start====================================*/
 footer{
   background-color: #0B0D17;
   padding: 30px 0px ;
@@ -197,3 +200,5 @@ footer p{
   margin-bottom: 20px;
   text-align: center;
 }
+
+/*======================================= project completed ====================================*/
