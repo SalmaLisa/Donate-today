@@ -145,6 +145,7 @@ body{
   padding: 10px;
   font-size: 17px;
   border: 1px solid #ffd1d1;
+  border-radius: 3px;
 }
 #submit-button{
   width: 15%;
