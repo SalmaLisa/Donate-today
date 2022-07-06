@@ -118,7 +118,7 @@ body{
   background-color: #FFF4D6;
 }
 
-/*=================================== donation-activities-section start====================================*/
+/*=================================== donation-activities-section start ====================================*/
 .photo-gallery{
   display: flex;
 }
@@ -127,18 +127,18 @@ body{
   border: 7px solid #fff;
   margin: 50px 0px;
 }
-.reg-form{
+.registration-form{
   width: 50%;
   margin: 20px auto 90px;
   background-color: #FFEEEE;
   padding: 30px;
   border-radius: 5px;
 }
-.reg-form h2{
+.registration-form h2{
   text-align: center;
   color: #413d3d;
 }
-.reg-form input{
+.registration-form input{
   display: block;
   width: 80%;
   margin: 20px auto;
@@ -154,7 +154,7 @@ body{
   font-weight: 600;
 }
 
-/*======================================= get-our-updates-section start====================================*/
+/*======================================= get-our-updates-section start ====================================*/
 #subscription-form{
   width: 35%;
   padding: 70px 150px;
@@ -181,7 +181,7 @@ body{
   border-radius: 0px 7px 7px 0px;
 }
 
-/*======================================= footer-section start====================================*/
+/*======================================= footer-section start ====================================*/
 footer{
   background-color: #0B0D17;
   padding: 30px 0px ;
